@@ -1,4 +1,4 @@
-# Sixth Sense Device ✋🎥  
+# Sixth Sense Device ✋🏻🎥  
 
 A computer vision project inspired by the **Sixth Sense** concept, enabling gesture-based interaction with digital systems.  
 Using a colored object and a webcam, the system supports **air drawing** and **gesture-based image capture**.  
